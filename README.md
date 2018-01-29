@@ -1,7 +1,7 @@
 # LRUPageReplacementVisualization
 A small program to help visualize an LRU page replacement algorithm for a plain text file containing a reference string of pages.
 
-## Files
+## Files and Program Structure
 My program consists of two python files: View.py and MemoryManager.py.
 
 #### MemoryManager.py:
